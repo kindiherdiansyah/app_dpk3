@@ -56,8 +56,4 @@ environments/            contains environment-based overrides
 
 APLIKASI DPK3 Yii2
 
-![1](https://user-images.githubusercontent.com/26849052/84476850-f144cf80-acb8-11ea-8cda-0a063c5a4e0c.JPG)
-![2](https://user-images.githubusercontent.com/26849052/84476857-f275fc80-acb8-11ea-9598-ab92a905a79f.JPG)
-![3](https://user-images.githubusercontent.com/26849052/84476861-f3a72980-acb8-11ea-9bbb-e1a39297e862.JPG)
-![4](https://user-images.githubusercontent.com/26849052/84476866-f4d85680-acb8-11ea-864e-e293cccdb99a.JPG)
-![5](https://user-images.githubusercontent.com/26849052/84476867-f570ed00-acb8-11ea-81f0-416755012f26.JPG)
+
